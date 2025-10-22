@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://sammi.ac/projects/paint](https://sammi.ac/projects/paint)
+[Paint](https://paint-self.vercel.app/)
 
   
   
