@@ -2,6 +2,9 @@
 
 <p align="center"><img src="https://media.graphassets.com/SaZfwkN2Ryeo8RgDa4gn" alt="project-image"></p>
 
+<img width="1348" height="623" alt="image" src="https://github.com/user-attachments/assets/207c6199-f73f-44db-bd38-c2aa8872f890" />
+
+
 <p id="description">Unlock your creativity and enhance your web development skills with our comprehensive course on building a Paint Clone using HTML CSS and JavaScript. This hands-on course is designed for both beginners and intermediate developers who want to delve into the world of web application development while creating a fun and interactive project.</p>
 
 <h2>🚀 Demo</h2>
